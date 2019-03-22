@@ -13,6 +13,5 @@ public class Competicao {
 		this.nome = nome;
 	}
 	
-	
 
 }
